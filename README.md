@@ -86,14 +86,4 @@ File reading is rigidly structured and lacks error recovery.
 
 No dynamic memory or support for multiple students.
 
-✅ Suggested Improvements:
-Use dynamic arrays or STL vectors for flexibility.
-
-Add better prerequisite validation (check against all completed courses).
-
-Support more students.
-
-Add user-friendly file formats (e.g., CSV or JSON).
-
-Build a simple GUI or web interface.
 
